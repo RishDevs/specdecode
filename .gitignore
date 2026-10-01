@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Model / data caches (never commit weights)
+*.safetensors
+*.bin
+hf_cache/
+.cache/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Local scratch
+*.log
+wandb/
