@@ -1,3 +1,5 @@
+<img src=".github/header.svg" width="100%" alt="specdecode — SpecDecode — README header">
+
 # SpecDecode
 
 **A speculative decoding engine for LLM inference, written from scratch in PyTorch.**
